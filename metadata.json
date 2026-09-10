@@ -1,0 +1,7 @@
+{
+  "name": "SmartInspect",
+  "description": "Professional inspection and risk-management platform for high-risk facilities, fresh camera evidence capture, actions, and audit records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
